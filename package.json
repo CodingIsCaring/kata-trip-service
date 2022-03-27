@@ -1,9 +1,8 @@
 {
-  "name": "template-typescript",
+  "name": "kata-trip-service-typescript",
   "version": "1.0.0",
-  "description": "CodingIsCaring Template",
+  "description": "CodingIsCaring Katas",
   "keywords": [
-    "template",
     "codingIsCaring",
     "kata"
   ],

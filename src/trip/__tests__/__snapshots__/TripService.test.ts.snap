@@ -1,0 +1,11 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`TripService get trips when user is not empty and another user must be logged and must be friend with the initial user 1`] = `
+Array [
+  Trip {},
+]
+`;
+
+exports[`TripService get trips when user is not empty and another user must be logged and they are not friends 1`] = `Array []`;
+
+exports[`TripService gets trips when user is empty and another user must be logged 1`] = `Array []`;
